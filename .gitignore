@@ -70,4 +70,4 @@ htmlcov/
 .tox/
 
 # Project specific - uncomment if needed
-# address_list.csv
+address_list.csv
